@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{a as e,b as r,c as p,d as i,e as n,l as m,n as a,o as f,r as s,x as c}from"./chunk-RMPKOU42.mjs";var d=(()=>{class o{constructor(){this.title="halica"}static{this.\u0275fac=function(t){return new(t||o)}}static{this.\u0275cmp=e({type:o,selectors:[["app-root"]],standalone:!0,features:[n],decls:2,vars:0,template:function(t,h){t&1&&(r(0,"p"),i(1,"hello dixon :0"),p())}})}}return o})();var l=[];var u={providers:[c(l),f()]};var C={providers:[s()]},v=m(u,C);var x=()=>a(d,v),k=x;export{k as a};
