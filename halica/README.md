@@ -30,3 +30,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 cd halica
 ng build --configuration production --base-href /halica/
 npx angular-cli-ghpages --dir=dist/halica/browser
+
+ng build --configuration production --base-href /
