@@ -5,3 +5,19 @@
     font-family: 'dogica';
     src: url('./assets/fonts/dogica/dogica.ttf') format('truetype');
   }
+
+a{
+    font-family: 'dogica';
+}
+
+h1{
+    font-family: 'dogica';
+}
+
+h2 {
+    font-family: 'dogica';
+}
+
+p {
+    font-family: 'dogica';
+}
