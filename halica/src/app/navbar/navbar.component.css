@@ -1,6 +1,5 @@
 
   .navbar a {
-    float: left;
     color: #f2f2f2;
     text-align: center;
     padding: 14px 16px;
@@ -21,6 +20,10 @@
     color: white;
   }
 
-  .navbar {
+  .navbar a {
+    background-color: rgb(224, 248, 248);
+    color: black;
     white-space: nowrap;
   }
+
+  

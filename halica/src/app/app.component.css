@@ -2,3 +2,16 @@
     font-family: 'dogica';
 }
 
+.wallpaper {
+    background-image: url('/assets/images/wallpapers/cat-background.jpeg');
+    background-size: 100px;
+    background-repeat: repeat;
+    /* Optional: Adjust background size and position */
+    background-position: center;
+    /* Ensure the element covers the desired area */
+    width: 100%;
+    justify-self: auto;
+    justify-content: auto;
+    height: 100vh; /* Adjust as needed */
+    background-position: 0px 0px;
+  }
