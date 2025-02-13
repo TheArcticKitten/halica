@@ -7,6 +7,7 @@ import { AboutComponent } from './about/about.component';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
 import { MusicComponent } from './music/music.component';
 import { ArtComponent } from './art/art.component';
+import { FavoritesComponent } from './favorites/favorites.component';
 
 export const routes: Routes = [
   { path: '', redirectTo: '/home', pathMatch: 'full' },
@@ -14,6 +15,7 @@ export const routes: Routes = [
   { path: 'art', component: ArtComponent },
   { path: 'music', component: MusicComponent },
   { path: 'cat-pix', component: CatPixComponent },
+  { path: 'favorites', component: FavoritesComponent },
   { path: 'about', component: AboutComponent },
   { path: '**', component: PageNotFoundComponent }
 ]

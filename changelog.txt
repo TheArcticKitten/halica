@@ -1,0 +1,6 @@
+february 10th, 2025:
+- created main page and domain
+
+february 13th, 2025:
+- added content in most navbar links
+- added sick cat background and pixel font

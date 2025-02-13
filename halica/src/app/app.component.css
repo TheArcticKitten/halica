@@ -15,3 +15,7 @@
     height: 100vh; /* Adjust as needed */
     background-position: 0px 0px;
   }
+
+  .changelog {
+    float: right;
+  }
